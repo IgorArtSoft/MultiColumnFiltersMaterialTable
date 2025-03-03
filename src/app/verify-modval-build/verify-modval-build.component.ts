@@ -282,7 +282,7 @@ export interface DialogData {
     MatDialogTitle,
     MatDialogContent,
     MatDialogActions,
-    MatDialogClose,
+    MatDialogClose
   ],
 })
 export class CancelRequestsDialog implements AfterViewInit{
